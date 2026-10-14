@@ -1,5 +1,6 @@
 # 运行包和临时克隆目录
 /repository/
+/bin
 
 # 编译输出
 build/
