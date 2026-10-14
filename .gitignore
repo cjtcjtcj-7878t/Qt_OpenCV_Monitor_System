@@ -1,0 +1,22 @@
+# 运行包和临时克隆目录
+/bin/
+/bin.zip
+/repository/
+
+# 编译输出
+build/
+build-*/
+debug/
+release/
+*.o
+*.obj
+*.pdb
+.qmake.stash
+
+# Qt Creator 本机设置
+*.pro.user
+*.pro.user.*
+
+# 本机配置
+db_config.ini
+config.json
