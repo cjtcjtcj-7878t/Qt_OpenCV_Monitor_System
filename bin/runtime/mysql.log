@@ -1,0 +1,176 @@
+2026-09-19T12:00:31.010182Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-19T12:00:31.155161Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 50112
+2026-09-19T12:00:31.182636Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-19T12:00:31.504518Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-19T12:00:31.741526Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-19T12:00:31.741590Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-19T12:00:31.772508Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-19T12:00:35.996472Z 10 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-19T12:00:35.996584Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-19T12:00:36.806316Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-19T12:00:36.806349Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-22T03:42:45.303811Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-22T03:42:45.522779Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 43908
+2026-09-22T03:42:45.584216Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-22T03:42:46.052338Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-22T03:42:46.277564Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-22T03:42:46.277625Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-22T03:42:46.314992Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-22T03:42:54.418935Z 9 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-22T03:42:54.419191Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-22T03:42:55.439558Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-22T03:42:55.439590Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-22T04:26:11.935658Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-22T04:26:12.061245Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 40800
+2026-09-22T04:26:12.069210Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-22T04:26:12.406474Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-22T04:26:12.560061Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-22T04:26:12.560105Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-22T04:26:12.579560Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-22T04:27:25.851787Z 92 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-22T04:27:25.851935Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-22T04:27:26.436976Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-22T04:27:26.437009Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-22T05:27:31.426286Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-22T05:27:31.686097Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 47168
+2026-09-22T05:27:31.695053Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-22T05:27:32.041676Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-22T05:27:32.239229Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-22T05:27:32.239277Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-22T05:27:32.260026Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-22T05:27:36.815388Z 36 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-22T05:27:36.815628Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-22T05:27:37.391095Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-22T05:27:37.391130Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-22T11:57:40.032781Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-22T11:57:40.202216Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 62584
+2026-09-22T11:57:40.245238Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-22T11:57:40.675206Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-22T11:57:40.869096Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-22T11:57:40.869143Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-22T11:57:40.899748Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-22T11:57:46.635771Z 9 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-22T11:57:46.636088Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-22T11:57:47.025516Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-22T11:57:47.025551Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T13:01:29.971284Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T13:01:30.158672Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 17416
+2026-09-24T13:01:30.213452Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T13:01:30.655842Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T13:01:30.860741Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T13:01:30.860790Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T13:01:30.895129Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T13:02:14.423686Z 30 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T13:02:14.424025Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T13:02:15.417861Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T13:02:15.417898Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T13:08:53.707159Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T13:08:53.833512Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 35484
+2026-09-24T13:08:53.842405Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T13:08:54.246632Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T13:08:54.468452Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T13:08:54.468496Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T13:08:54.489181Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T13:27:03.396135Z 42 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T13:27:03.396336Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T13:27:04.048904Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T13:27:04.048938Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T13:34:13.974107Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T13:34:14.136997Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 29752
+2026-09-24T13:34:14.145208Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T13:34:14.549976Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T13:34:14.731307Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T13:34:14.731354Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T13:34:14.751167Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T13:34:27.411823Z 31 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T13:34:27.411999Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T13:34:27.990998Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T13:34:27.991034Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T13:35:41.888398Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T13:35:41.992825Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 53592
+2026-09-24T13:35:42.000724Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T13:35:42.355864Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T13:35:42.528778Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T13:35:42.528882Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T13:35:42.549685Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T13:36:01.127931Z 53 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T13:36:01.128076Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T13:36:01.890202Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T13:36:01.890235Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T13:37:50.296830Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T13:37:50.477801Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 16316
+2026-09-24T13:37:50.485323Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T13:37:50.822825Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T13:37:50.973655Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T13:37:50.973711Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T13:37:50.992450Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T13:38:13.958237Z 47 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T13:38:13.958376Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T13:38:14.338565Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T13:38:14.338602Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T13:45:02.317246Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T13:45:02.436004Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 11540
+2026-09-24T13:45:02.444100Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T13:45:02.793258Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T13:45:02.940462Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T13:45:02.940504Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T13:45:02.963982Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T13:45:22.732205Z 47 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T13:45:22.732367Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T13:45:23.293593Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T13:45:23.293628Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T13:48:54.046924Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T13:48:54.208762Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 50536
+2026-09-24T13:48:54.217404Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T13:48:54.593724Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T13:48:54.752707Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T13:48:54.752751Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T13:48:54.772899Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T13:49:19.864112Z 47 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T13:49:19.864289Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T13:49:20.179519Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T13:49:20.179552Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T13:50:48.043431Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T13:50:48.165341Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 29656
+2026-09-24T13:50:48.173525Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T13:50:48.527200Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T13:50:48.700278Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T13:50:48.700329Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T13:50:48.721929Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T14:00:38.600749Z 754 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T14:00:38.600959Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T14:00:39.761140Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T14:00:39.761174Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T14:02:39.007184Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T14:02:39.068492Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 14120
+2026-09-24T14:02:39.076188Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T14:02:39.421459Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T14:02:39.568855Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T14:02:39.568902Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T14:02:39.589500Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T14:03:02.611685Z 47 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T14:03:02.611819Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T14:03:02.980464Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T14:03:02.980548Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T14:03:46.247552Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T14:03:46.352810Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 45804
+2026-09-24T14:03:46.360319Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T14:03:46.711418Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T14:03:46.860474Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T14:03:46.860516Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T14:03:46.880267Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T14:03:57.558529Z 31 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T14:03:57.558649Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T14:03:58.109962Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T14:03:58.109996Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-09-24T14:09:33.822743Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-24T14:09:33.883475Z 0 [System] [MY-010116] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe (mysqld 8.4.11) starting as process 41468
+2026-09-24T14:09:33.893388Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-24T14:09:34.248379Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-24T14:09:34.406854Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-24T14:09:34.406898Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-24T14:09:34.428900Z 0 [System] [MY-010931] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: ready for connections. Version: '8.4.11'  socket: ''  port: 13306  MySQL Community Server - GPL.
+2026-09-24T14:09:39.018171Z 31 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.4.11).
+2026-09-24T14:09:39.018335Z 0 [System] [MY-013105] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Normal shutdown.
+2026-09-24T14:09:39.607392Z 0 [System] [MY-010910] [Server] D:\QT+opencv\lesson21\Project_monitor\bin\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.4.11)  MySQL Community Server - GPL.
+2026-09-24T14:09:39.607424Z 0 [System] [MY-015016] [Server] MySQL Server - end.
