@@ -7,7 +7,7 @@ src文件夹中存放程序源码，其中third_library放置程序涉及到的�
 若想要将代码进行本地运行除了完成Qt6 creator的链接第三方库操作，还需要完成以下操作。
 
 bin文件夹存放了exe程序以及程序需要的扩展文件。
-其中sql脚本还需要你在本地的Navicate Premium中执行一次。初此之外，数据库INI配置文件也需要你手动更改相关参数。（databaseName不需要更改）。以上操作完成才可正常使用“登录”功能。
+其中Project.sql脚本还需要你在本地的Navicate Premium中执行一次。初此之外，数据库db_config.ini配置文件也需要你手动更改相关参数。（databaseName不需要更改）。以上操作完成才可正常使用“登录”功能。
 
 将INI文件中相关参数改成你本地的Navicate Premium相关参数。
 （未完待续....）
