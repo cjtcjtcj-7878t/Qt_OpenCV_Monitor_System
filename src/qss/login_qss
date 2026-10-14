@@ -1,0 +1,176 @@
+/* 整个窗口 */
+
+QWidget#loginWidget {
+    background-color: #191B1F;
+    color: #E8EAED;
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+}
+
+
+/* ========================
+   标题栏
+   ======================== */
+
+QWidget#titleBar {
+    background-color: #15171A;
+}
+
+QLabel#windowTitle {
+    color: #F1F3F5;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+QPushButton#windowButton,
+QPushButton#closeButton {
+    background-color: transparent;
+
+    border: none;
+    border-radius: 0;
+
+    color: #D8DCE2;
+
+    font-size: 16px;
+}
+
+QPushButton#windowButton:hover {
+    background-color: #2A2D32;
+}
+
+QPushButton#closeButton:hover {
+    background-color: #D9363E;
+    color: white;
+}
+
+
+/* ========================
+   登录卡片
+   ======================== */
+
+QWidget#loginCard {
+    background-color: #22252A;
+
+    border: 1px solid #30343B;
+    border-radius: 12px;
+}
+
+
+/* 登录标题 */
+
+QLabel#loginTitle {
+    color: #F4F6F8;
+
+    font-size: 25px;
+    font-weight: 600;
+}
+
+QLabel#loginSubTitle {
+    color: #8E96A3;
+
+    font-size: 13px;
+}
+
+
+/* ========================
+   表单
+   ======================== */
+
+QLabel#formLabel {
+    color: #CFD4DB;
+
+    font-size: 13px;
+}
+
+QLineEdit#loginEdit {
+    background-color: #292D33;
+
+    color: #F0F2F5;
+
+    border: 1px solid #383D45;
+    border-radius: 7px;
+
+    padding-left: 12px;
+    padding-right: 12px;
+
+    font-size: 14px;
+}
+
+QLineEdit#loginEdit:hover {
+    border: 1px solid #4A505A;
+}
+
+QLineEdit#loginEdit:focus {
+    border: 1px solid #3984FF;
+}
+
+
+/* ========================
+   登录按钮
+   ======================== */
+
+QPushButton#loginButton {
+    background-color: #2878F0;
+
+    color: white;
+
+    border: none;
+    border-radius: 7px;
+
+    font-size: 15px;
+    font-weight: 600;
+}
+
+QPushButton#loginButton:hover {
+    background-color: #3988F5;
+}
+
+QPushButton#loginButton:pressed {
+    background-color: #1765D2;
+}
+
+
+/* 取消 */
+
+QPushButton#cancelButton {
+    background-color: transparent;
+
+    color: #9BA3AE;
+
+    border: none;
+    border-radius: 6px;
+}
+
+QPushButton#cancelButton:hover {
+    background-color: #2A2D32;
+
+    color: #E7E9EC;
+}
+
+QMessageBox {
+    background-color: #F5F5F5;
+}
+
+QMessageBox QLabel {
+    color: #202124;
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+    min-width: 220px;
+}
+
+QMessageBox QPushButton {
+    min-width: 70px;
+    min-height: 32px;
+
+    background-color: #2F80ED;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    padding: 4px 12px;
+}
+
+QMessageBox QPushButton:hover {
+    background-color: #1C6DD0;
+}

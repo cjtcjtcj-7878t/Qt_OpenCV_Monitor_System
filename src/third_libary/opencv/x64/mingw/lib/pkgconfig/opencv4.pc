@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=E:/build/deps/opencv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/x64/mingw/lib
+includedir=${prefix}/include
+
+Name: OpenCV
+Description: Open Source Computer Vision Library
+Version: 4.10.0
+Libs: -L${exec_prefix}/x64/mingw/lib -lopencv_gapi4100 -lopencv_highgui4100 -lopencv_ml4100 -lopencv_objdetect4100 -lopencv_photo4100 -lopencv_stitching4100 -lopencv_video4100 -lopencv_calib3d4100 -lopencv_features2d4100 -lopencv_dnn4100 -lopencv_flann4100 -lopencv_videoio4100 -lopencv_imgcodecs4100 -lopencv_imgproc4100 -lopencv_core4100
+Libs.private: -lpthread
+Cflags: -I${includedir}

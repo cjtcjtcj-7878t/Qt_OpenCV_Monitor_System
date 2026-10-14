@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/red_camera.png</file>
+        <file>qss/setting_qss</file>
+        <file>qss/main_qss</file>
+        <file>qss/login_qss</file>
+        <file>image/login.png</file>
+        <file>qss/monitor_qss</file>
+        <file>image/blue_camera.png</file>
+        <file>qss/normal_video_replay</file>
+        <file>qss/detect_video_replay</file>
+    </qresource>
+</RCC>

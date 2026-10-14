@@ -1,0 +1,32 @@
+
+（可将随行的"opencv"文件下载到本地,本程序使用的opencv库已经统一放置到"third_library"与工程同一目录下,.pro文件连接路径就是OPENCV_ROOT = $$PWD/third_libary/opencv）
+(本教程针对Qt6链接OpenCV的通用教程)
+1、在工程的.pro文件中加入以下
+
+OPENCV_ROOT=D:/OpencvQT6build/opencv (OPENCV的安装路径，由实际情况决定，比如我的电脑安装路径就是左边那块,最后一个目录都是opencv)
+
+INCLUDEPATH+=$${OPENCV_ROOT}/include (进入opencv的安装文件中会发现一个名为"include"的文件夹,其他的还有"x64","java","etc")
+
+LIBS=-L$${OPENCV_ROOT}/x64/mingw/lib
+(表示链接lib底下的.dll.a文件)
+
+DESTDIR=$$PWD/bin
+
+LIBS+=-llibopencv_core4100	#核心模块（内存管理、数据结构）
+LIBS+=-llibopencv_imgproc4100		#图像处理（滤波、缩放等）
+LIBS+=-llibopencv_videoio4100		#视频I/O（调用FFmpeg读写视频）
+LIBS+=-llibopencv_highgui4100		#简单GUI显示（如imshow）
+LIBS+=-llibopencv_imgcodecs4100		#图像编解码（显示图片）
+LIBS+=-llibopencv_dnn4100   #opencv访问onns模型的接口模块
+
+LIBS+=-llibopencv_features2d4100		#特征检测（如SIFT/SURF）
+LIBS+=-llibopencv_calib3d4100		#相机标定、3D重建
+LIBS+=-llibopencv_objdetect4100		#目标检测（如Haar级联）
+
+
+2、在工程目录下手动创建一个名为"bin"的文件夹，类似于QT5链接MYSQL(也就是和工程的.pro文件处于同一级创建bin文件夹)
+
+同时去到opencv的以下文件路径处:x64\mingw\bin,
+将里面所有的.dll文件复制并粘贴到手动创建的bin文件夹里
+
+(Windows的文件路径以右斜杠\划分，但在.pro文件中以左斜杠/划分)

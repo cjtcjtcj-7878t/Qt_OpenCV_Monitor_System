@@ -1,0 +1,206 @@
+/* 所有页面的基础字体 */
+QWidget {
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+    color: #E8E8E8;
+}
+/*///////////////////////////////////////////*/
+/* 普通按钮 */
+QPushButton {
+    background-color: #2B2D31;
+    color: #E8E8E8;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+}
+/* 按钮未点击 */
+QPushButton:hover {
+    background-color: #363940;
+}
+
+/* 按钮点击 */
+QPushButton:pressed {
+    background-color: #1F2024;
+}
+/*//////////////////////////////////////////*/
+/* 背景颜色 */
+QWidget#Settingwidget {
+    background-color: #1E1F22;
+}
+/*//////////////////////////////////////////*/
+/* 标题 */
+QLabel#titleLabel {
+    color: #E8EAED;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+/*//////////////////////////////////////////*/
+QLineEdit {
+    background-color: #292B2F;
+    color: #E8E8E8;
+
+    border: 1px solid #3A3D42;
+    border-radius: 6px;
+
+    padding: 8px 12px;
+    selection-background-color: #1677FF;
+}
+
+QLineEdit:hover {
+    border: 1px solid #50545B;
+}
+
+QLineEdit:focus {
+    border: 1px solid #1677FF;
+}
+/*//////////////////////////////////////////*/
+
+QComboBox {
+    background-color: #292B2F;
+    color: #E8E8E8;
+
+    border: 1px solid #3A3D42;
+    border-radius: 6px;
+
+    padding: 8px 12px;
+}
+
+QComboBox:hover {
+    border: 1px solid #50545B;
+}
+
+QComboBox:focus {
+    border: 1px solid #1677FF;
+}
+
+QComboBox QAbstractItemView {
+    background-color: #292B2F;
+    color: #E8E8E8;
+
+    border: 1px solid #3A3D42;
+    selection-background-color: #1677FF;
+    selection-color: white;
+}
+
+/*/////////////////////////////////////////////*/
+
+QPushButton#browseButton {
+    background-color: #303238;
+    color: #E8E8E8;
+
+    border: 1px solid #41444A;
+    border-radius: 6px;
+
+    padding: 8px 20px;
+}
+
+QPushButton#browseButton:hover {
+    background-color: #3A3D43;
+}
+
+QPushButton#browseButton:pressed {
+    background-color: #25272B;
+}
+
+/*//////////////////////////////////////////////*/
+
+QPushButton#saveButton {
+    background-color: #1677FF;
+    color: white;
+
+    border: none;
+    border-radius: 6px;
+
+    padding: 9px 28px;
+    font-weight: bold;
+}
+
+QPushButton#saveButton:hover {
+    background-color: #409EFF;
+}
+
+QPushButton#saveButton:pressed {
+    background-color: #0958D9;
+}
+
+/*////////////////////////////////////////////////*/
+
+QPushButton#cancelButton {
+    background-color: #303238;
+    color: #D9D9D9;
+
+    border: 1px solid #41444A;
+    border-radius: 6px;
+
+    padding: 9px 28px;
+}
+
+QPushButton#cancelButton:hover {
+    background-color: #3A3D43;
+}
+
+QWidget#titleBar {
+    background-color: #18191C;
+    min-height: 42px;
+    max-height: 42px;
+}
+
+QLabel#windowTitle {
+    color: #E8E8E8;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+QPushButton#minButton,
+QPushButton#maxButton,
+QPushButton#closeButton {
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    min-width: 46px;
+    max-width: 46px;
+    min-height: 42px;
+    max-height: 42px;
+}
+
+QPushButton#minButton:hover,
+QPushButton#maxButton:hover {
+    background-color: #303238;
+}
+
+QPushButton#closeButton:hover {
+    background-color: #D9363E;
+}
+
+/* ==============================
+   QMessageBox
+   ============================== */
+
+QMessageBox {
+    background-color: #F5F5F5;
+}
+
+QMessageBox QLabel {
+    color: #202124;
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+    min-width: 220px;
+}
+
+QMessageBox QPushButton {
+    min-width: 70px;
+    min-height: 32px;
+
+    background-color: #2F80ED;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    padding: 4px 12px;
+}
+
+QMessageBox QPushButton:hover {
+    background-color: #1C6DD0;
+}

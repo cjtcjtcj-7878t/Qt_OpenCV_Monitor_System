@@ -1,0 +1,125 @@
+QLabel#videoLabel_1 {
+    background-color: #111827;
+    color: #CBD5E1;
+    border: 1px solid #334155;
+    border-radius: 4px;
+}
+
+/* 实时监控页面的基础字体 */
+QWidget {
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+    color: #243247;
+}
+
+/* 摄像头列表 */
+QListWidget {
+    background-color: #FFFFFF;
+    border: 1px solid #D9E2EC;
+    border-radius: 6px;
+    padding: 4px;
+    outline: none;
+}
+
+QListWidget::item {
+    min-height: 36px;
+    padding: 6px 10px;
+    border-radius: 4px;
+}
+
+QListWidget::item:hover {
+    background-color: #EFF6FF;
+}
+
+QListWidget::item:selected {
+    background-color: #2563EB;
+    color: white;
+}
+
+/* 普通按钮 */
+QPushButton {
+    min-height: 34px;
+    background-color: #FFFFFF;
+    color: #334155;
+    border: 1px solid #CBD5E1;
+    border-radius: 6px;
+    padding: 6px 14px;
+}
+
+QPushButton:hover {
+    background-color: #EFF6FF;
+    border-color: #60A5FA;
+    color: #1D4ED8;
+}
+
+QPushButton:pressed {
+    background-color: #DBEAFE;
+}
+
+QPushButton:checked {
+    background-color: #2563EB;
+    border-color: #2563EB;
+    color: white;
+}
+
+QPushButton:disabled {
+    background-color: #F1F5F9;
+    color: #94A3B8;
+    border-color: #E2E8F0;
+}
+
+/* 画面区域 */
+QLabel {
+    color: #334155;
+}
+
+QLabel#device {
+    color: #172B4D;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px;
+}
+
+/* 进度条或其他滑块 */
+QSlider::groove:horizontal {
+    height: 6px;
+    background-color: #D9E2EC;
+    border-radius: 3px;
+}
+
+QSlider::sub-page:horizontal {
+    background-color: #2563EB;
+    border-radius: 3px;
+}
+
+QSlider::handle:horizontal {
+    width: 14px;
+    height: 14px;
+    margin: -4px 0;
+    background-color: #2563EB;
+    border-radius: 7px;
+}
+
+
+QPushButton#videoLabel_1,
+QPushButton#videoLabel_4 {
+    background-color: #FFFFFF;
+}
+
+QPushButton#record_button {
+    color: #B45309;
+    border-color: #F59E0B;
+}
+
+QPushButton#record_button:checked {
+    background-color: #F59E0B;
+    color: white;
+}
+
+QPushButton#open_camera_button {
+    color: #047857;
+}
+
+QPushButton#close_camera_button {
+    color: #B91C1C;
+}

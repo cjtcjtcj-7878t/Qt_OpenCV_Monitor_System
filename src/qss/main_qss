@@ -1,0 +1,136 @@
+QMessageBox {
+    background-color: #F5F5F5;
+}
+
+QMessageBox QLabel {
+    color: #202124;
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+    min-width: 220px;
+}
+
+QMessageBox QPushButton {
+    min-width: 70px;
+    min-height: 32px;
+
+    background-color: #2F80ED;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    padding: 4px 12px;
+}
+
+QMessageBox QPushButton:hover {
+    background-color: #1C6DD0;
+}
+
+QWidget#MainWindow {
+    background-color: #F3F6FA;
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+    color: #243247;
+}
+
+QWidget#titleBar {
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #E5EAF1;
+}
+
+QLabel#appTitle {
+    color: #172B4D;
+    font-size: 19px;
+    font-weight: bold;
+    background: transparent;
+}
+
+QLabel#timeLable {
+    color: #748197;
+    font-size: 12px;
+    background: transparent;
+}
+
+/* 登录区域 */
+QPushButton#accountButton {
+    color: #334155;
+    background-color: #F1F5F9;
+    border: 1px solid #E2E8F0;
+    border-radius: 18px;
+    padding: 0px 14px;
+}
+
+QPushButton#accountButton:hover {
+    color: #2563EB;
+    background-color: #EFF6FF;
+    border-color: #93B4F5;
+}
+
+QPushButton#accountButton:pressed {
+    background-color: #DBEAFE;
+}
+
+/* 窗口按钮 */
+QPushButton#minButton,
+QPushButton#closeButton {
+    color: #64748B;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    padding: 0px;
+    font-size: 20px;
+}
+
+QPushButton#minButton:hover {
+    color: #243247;
+    background-color: #E9EEF5;
+}
+
+QPushButton#closeButton:hover {
+    color: #FFFFFF;
+    background-color: #E5484D;
+}
+
+QPushButton#closeButton:pressed {
+    background-color: #C9363B;
+}
+
+/* 导航栏 */
+QWidget#navBar {
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #E5EAF1;
+}
+
+QPushButton#navButton,
+QPushButton#settingsButton {
+    color: #526176;
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 7px;
+    padding: 0px 16px;
+}
+
+QPushButton#navButton:hover,
+QPushButton#settingsButton:hover {
+    color: #2563EB;
+    background-color: #EFF6FF;
+}
+
+QPushButton#navButton:checked {
+    color: #FFFFFF;
+    background-color: #2563EB;
+}
+
+QPushButton#navButton:checked:hover {
+    background-color: #1D4ED8;
+}
+
+QPushButton#settingsButton {
+    border-color: #DFE6EF;
+}
+
+QPushButton#accountButton:focus,
+QPushButton#navButton:focus,
+QPushButton#settingsButton:focus {
+    border: 1px solid #6096EF;
+}

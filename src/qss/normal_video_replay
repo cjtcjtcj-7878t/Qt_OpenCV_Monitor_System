@@ -1,0 +1,119 @@
+/* 回放页面基础样式 */
+QWidget {
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+    color: #243247;
+}
+
+/* 日期选择框和通道选择框 */
+QDateEdit,
+QComboBox {
+    min-height: 32px;
+    background-color: #FFFFFF;
+    color: #334155;
+    border: 1px solid #CBD5E1;
+    border-radius: 5px;
+    padding: 4px 8px;
+}
+
+QDateEdit:hover,
+QComboBox:hover {
+    border-color: #60A5FA;
+}
+
+QDateEdit:focus,
+QComboBox:focus {
+    border-color: #2563EB;
+}
+
+QComboBox QAbstractItemView {
+    background-color: #FFFFFF;
+    color: #334155;
+    border: 1px solid #CBD5E1;
+    selection-background-color: #2563EB;
+    selection-color: white;
+}
+
+/* 视频列表 */
+QListWidget {
+    background-color: #FFFFFF;
+    border: 1px solid #D9E2EC;
+    border-radius: 6px;
+    padding: 4px;
+    outline: none;
+}
+
+QListWidget::item {
+    min-height: 34px;
+    padding: 6px 10px;
+    border-radius: 4px;
+}
+
+QListWidget::item:hover {
+    background-color: #EFF6FF;
+}
+
+QListWidget::item:selected {
+    background-color: #2563EB;
+    color: white;
+}
+
+/* 视频播放区域 */
+QLabel {
+    color: #334155;
+}
+
+QLabel#emptyLabel,
+QLabel#videoLabel {
+    background-color: #111827;
+    color: #CBD5E1;
+}
+
+/* 播放、截图和翻页按钮 */
+QPushButton {
+    min-height: 32px;
+    background-color: #FFFFFF;
+    color: #334155;
+    border: 1px solid #CBD5E1;
+    border-radius: 5px;
+    padding: 5px 12px;
+}
+
+QPushButton:hover {
+    background-color: #EFF6FF;
+    border-color: #60A5FA;
+}
+
+QPushButton:pressed {
+    background-color: #DBEAFE;
+}
+
+QPushButton:disabled {
+    background-color: #F1F5F9;
+    color: #94A3B8;
+}
+
+/* 播放进度条 */
+QSlider::groove:horizontal {
+    height: 6px;
+    background-color: #D9E2EC;
+    border-radius: 3px;
+}
+
+QSlider::sub-page:horizontal {
+    background-color: #2563EB;
+    border-radius: 3px;
+}
+
+QSlider::handle:horizontal {
+    width: 14px;
+    height: 14px;
+    margin: -4px 0;
+    background-color: #2563EB;
+    border-radius: 7px;
+}
+
+/* 时间显示 */
+QLabel {
+    color: #526176;
+}
